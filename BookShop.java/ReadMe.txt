@@ -1,1 +1,1 @@
-The programme shows how to use acess modiefiers (Setters and getters ), to change and access the values of variables which are set to be private.
+The programme shows how to use access modiefiers (Setters and getters ), to change and access the values of variables which are set to be private.
