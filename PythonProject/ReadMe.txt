@@ -1,0 +1,3 @@
+Using techniques learnt in computational data analytics, we aimed to analyse proxy indicator data which act as indirect measurements of past climates prior to availability of instrument measurements.
+Amongst available datasets, tree ring, borehole, and ice core data were analysed using packages in Python such as pandas and Matplotlib,
+with machine learning algorithm such as random forest regression, linear regression, and Bayesian ridge analysis
